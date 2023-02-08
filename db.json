@@ -10,5 +10,15 @@
             "age":"25",
             "address":"Aligarh"
         }
+    ],
+    "product":[
+{
+    "title":"watch",
+    "description":"bolt watch",
+    "price":450,
+    "category":"hand"
+}
     ]
+
+    
 }
