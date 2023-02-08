@@ -1,24 +1,45 @@
 {
-    "user":[
-        {
-            "Name":"Deep",
-            "age":"25",
-            "address":"s Rao"
-        },
-        {
-            "Name":"Pooja",
-            "age":"25",
-            "address":"Aligarh"
-        }
+    "books": [
+      {
+        "id": 1,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
+      }
     ],
-    "product":[
-{
-    "title":"watch",
-    "description":"bolt watch",
-    "price":450,
-    "category":"hand"
-}
+    "user":[
+      {
+       "username":"deep12345",
+       "avatar_url":"https://i.pravatar.cc/150?img=3",
+       "full-name" :"Deep yadav",
+       "email": "dkits1995@gmail.com",
+       "password": "1234"
+      }
+    ],
+    "DogsData":[
+      {
+        "id":1,
+        "name": "Tommy",
+        "age":2,
+        "place":"Visakhapatnam",
+        "gender":"Male"
+      },
+      {
+        "id":2,
+        "name": "Cherry",
+        "age":3,
+        "place":"Banglore",
+        "gender":"Female"
+      }
+    ],
+    "posts":[
+      {
+        
+      }
     ]
-
-    
-}
+  }
