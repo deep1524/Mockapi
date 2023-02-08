@@ -1,0 +1,14 @@
+{
+    "user":[
+        {
+            "Name":"Deep",
+            "age":"25",
+            "address":"s Rao"
+        },
+        {
+            "Name":"Pooja",
+            "age":"25",
+            "address":"Aligarh"
+        }
+    ]
+}
